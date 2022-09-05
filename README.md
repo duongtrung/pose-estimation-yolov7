@@ -38,6 +38,6 @@ To run on GPU:
 
 ``` python run_pose.py  –-source 0  –-device 0 ```
 
-
+ 
 ## References
 YOLOv7 - https://github.com/WongKinYiu/yolov7 
