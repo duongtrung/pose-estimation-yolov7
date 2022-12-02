@@ -35,3 +35,4 @@ To run on GPU:
  
 ## References
 YOLOv7 - https://github.com/WongKinYiu/yolov7 
+https://github.com/augmentedstartups/pose-estimation-yolov7
